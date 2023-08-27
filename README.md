@@ -36,5 +36,7 @@ With a proven track record in Cloud and DevOps Engineering, I excel in:
 
 - [LinkedIn](https://www.linkedin.com/in/kindheart-ilegogie-9b138112a/)
 - **Email:** kindyilegogie@gmail.com
+- https://medium.com/@kindyilegogie
+  
 
 I'm excited to leverage my Cloud and DevOps expertise for your projects, ensuring seamless deployments, efficient operations, and a culture of continuous innovation.
